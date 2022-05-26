@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 7px;
+  border-radius: 100px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #929cf700;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #979DAD; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #7b808e; 
+}
